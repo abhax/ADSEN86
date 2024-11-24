@@ -1,0 +1,6 @@
+[submodule "Source/Project-Hover"]
+	path = Source/Project-Hover
+	url = git@github.com:abhax/Project-Hover.git
+[submodule "Source/hoverApp"]
+	path = Source/hoverApp
+	url = git@github.com:abhax/hoverApp.git
