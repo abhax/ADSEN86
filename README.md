@@ -1,5 +1,5 @@
                             ********************** ADSEN86 Project ****************************
-                                            Automated Drone Senstry 86 Project 
+                                            Automated Drone Sentry 86 Project 
 Author: Abhay Ravi Chandran 
 
 Introduction: 
